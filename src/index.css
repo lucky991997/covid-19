@@ -1,0 +1,9 @@
+* {
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.bgColor{ 
+    background: linear-gradient( #ffefba, #f5cccc);
+}
